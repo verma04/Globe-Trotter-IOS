@@ -1,0 +1,1 @@
+ export PATH=~/.npm-global/bin:/Users/vermao4/.npm-global

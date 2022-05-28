@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Globe-Trotter Concierge",
+    "slug": "Globe-trotter-concierge",
+    "version": "1.2.14",
+    "orientation": "portrait",
+    "icon": "./assets/appstore.png",
+    "splash": {
+      "image": "./assets/gt-splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+  "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.globetrotter.concierge"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/playstore.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.globetrotter.concierge"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

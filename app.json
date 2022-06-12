@@ -2,7 +2,7 @@
   "expo": {
     "name": "Globe-Trotter Concierge",
     "slug": "Globe-trotter-concierge",
-    "version": "1.2.14",
+    "version": "1.5.1",
     "orientation": "portrait",
     "icon": "./assets/appstore.png",
     "splash": {
